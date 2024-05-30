@@ -1,0 +1,11 @@
+##################################
+#
+#add for fpc fingerprints
+#
+##################################
+# Huaqin modify for HQ-159059 by xiongwei7 at 2021/11/22 start
+#single click
+key 353   DPAD_CENTER VIRTUAL
+#double click
+key 306   BUTTON_C VIRTUAL
+# Huaqin modify for HQ-159059 by xiongwei7 at 2021/11/22 end
